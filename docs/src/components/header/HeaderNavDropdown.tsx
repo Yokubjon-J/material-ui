@@ -77,7 +77,7 @@ const PRODUCTS = [
   },
   {
     name: 'Toolpad',
-    description: 'Components and tools for dashboards and internal apps.',
+    description: 'Self-hosted, low-code internal tool builder.',
     href: ROUTES.productToolpad,
     chip: 'Beta',
   },
@@ -111,8 +111,8 @@ const DOCS = [
   },
   {
     name: 'Toolpad',
-    description: 'Components and tools for dashboards and internal apps.',
-    href: ROUTES.toolpadCoreDocs,
+    description: 'Self-hosted, low-code internal tool builder.',
+    href: ROUTES.toolpadStudioDocs,
     chip: 'Beta',
   },
 ];
